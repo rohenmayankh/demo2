@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 heeelllllo
 
+=======
+hiii
+>>>>>>> branch2
